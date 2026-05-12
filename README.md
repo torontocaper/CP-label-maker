@@ -1,4 +1,4 @@
-# CP-LabelMaker
+# CP 'LabelMaker'
 
 ## Quickly and easily create Audacity-friendly labels files using Slack
 
